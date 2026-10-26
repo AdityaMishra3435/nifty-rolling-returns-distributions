@@ -1,0 +1,3 @@
+Put manually downloaded TRI CSV files here (see README).
+Name each file after the index, e.g. "NIFTY 50.csv" or "nifty_500.csv".
+Files here take priority over the automatic download.
